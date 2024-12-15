@@ -1,0 +1,11 @@
+train: /home/yunseong/CrowdHuman/Images/train_img/Images  # Crowd train images
+  
+
+val: /home/yunseong/CrowdHuman/Images/val_img/Images # Crowd validation images
+ 
+
+# 클래스 이름 (필요한 클래스만 포함)
+names:
+  0: fbox
+  1: vbox
+  2: hbox

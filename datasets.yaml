@@ -1,0 +1,15 @@
+train: /home/yunseong/P_project_yolo11/datasets/coco/images/train2017  # COCO train images
+  
+
+val: /home/yunseong/P_project_yolo11/datasets/coco/images/val2017  # COCO validation images
+ 
+
+# 클래스 이름 (필요한 클래스만 포함)
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: bus
+  5: truck
+
